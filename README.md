@@ -11,7 +11,7 @@ As informações sobre as tabelas e índices foram documentados na planilha [Dic
 
 ### Scripts SQL
 Para este projeto foi utilizado o banco de dados [Postgre SQL]
-Abaixo, segue os scripts SQL separados por tipo:
+Abaixo, segue os scripts SQL separados por tipo:.<br>
 Tables: [Tables.sql](sql/Tables.sql).<br>
 Inserts: [Inserts.sql](sql/Inserts.sql).<br>
 Trigger: [Trigger.sql](sql/Trigger.sql).<br>
