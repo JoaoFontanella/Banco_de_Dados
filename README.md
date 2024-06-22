@@ -12,11 +12,11 @@ As informações sobre as tabelas e índices foram documentados na planilha [Dic
 ### Scripts SQL
 Para este projeto foi utilizado o banco de dados [Postgre SQL]
 Abaixo, segue os scripts SQL separados por tipo:
-Tables: [Tables.sql](sql/Tables.sql)
-Inserts: [Inserts.sql](sql/Inserts.sql)
-Trigger: [Trigger.sql](sql/Trigger.sql)
-Functions: [Functions.sql](sql/Functions.sql)
-Indexs: [Index.sql](sql/Index.sql)
+Tables: [Tables.sql](sql/Tables.sql).<br>
+Inserts: [Inserts.sql](sql/Inserts.sql).<br>
+Trigger: [Trigger.sql](sql/Trigger.sql).<br>
+Functions: [Functions.sql](sql/Functions.sql).<br>
+Indexs: [Index.sql](sql/Index.sql).<br>
 Views: [Views.sql](sql/Views.sql)
 
 ### Código Fonte do CRUD
