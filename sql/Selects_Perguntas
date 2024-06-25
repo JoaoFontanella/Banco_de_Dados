@@ -1,8 +1,8 @@
---Quais são os documentos criados pelo usuário com o nome "Alice"?
+--Quais são os documentos criados pelo usuário com o nome "Bruno Pereira"?
 SELECT d.documento_id, d.titulo, u.nome AS nome_usuario
 FROM Documento d
 JOIN Usuario u ON d.usuario_id = u.usuario_id
-WHERE u.nome = 'Alice';
+WHERE u.nome = 'Bruno Pereira';
 ---------------------------------------------
 --Quais são os documentos que pertencem à categoria "Financeiro"?
 SELECT d.documento_id, d.titulo, c.nome AS nome_categoria
